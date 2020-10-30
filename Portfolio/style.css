@@ -1,0 +1,118 @@
+body{
+        background: url(images/fundo3.jpg);
+        background-repeat: no-repeat;
+        background-size: 1120px;
+        margin:100px;
+        background-color: #000000; 
+        font-family:"Trebuchet MS", Tahoma, Arial, Verdana;
+}
+.corpo{
+    width: 700px;
+    height: 450px;
+	border: 1px solid black;
+	margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    border-width: medium;
+    border-style: solid;
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+.nome {
+    width: 750px;
+    height: 20px;
+    font-size: 18px;
+    position: relative;
+    left: 200px;
+    color: rgb(136, 11, 11);
+}
+.dados{
+    margin-top: 20px;
+    height: 280px;
+    border-width: medium;
+    border-top: solid;
+    border-color: rgb(136, 11, 11);
+    border-bottom: solid;
+    border-color: rgb(136, 11, 11);
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: -20px;
+}
+.graduacao{
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+ul{
+	list-style-type: none;
+}
+.curso{
+    float: left;
+    margin-left: 20px;
+}
+img{
+    width: 100px;
+    margin-left: 20px;
+}
+.conhecimentos{
+    float: right;
+    margin-right: 100px;
+}
+button{
+    color: rgb(136, 11, 11);
+}
+ul{
+    text-align: left;
+}
+p{
+    margin-top: 20px;
+}
+img.linkedin{
+    margin-left: 250px;
+    width: 50px;
+    float: left;
+}
+img.outlook{
+    margin-left: 100px;
+    width: 50px;
+}
+.botao{
+    background-color: rgb(136, 11, 11);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 20px;
+    right: 100px;
+}
+.botao:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(136, 11, 11);
+}
+img.c{
+    width: 49px;
+    float: right;
+}
+.lc{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(136, 11, 11);
+    margin-top: 40px;
+    margin-right: 100px;
+}
+img.sql{
+    width: 49px;
+    float: right;
+    margin-top: 20px;
+}
+.lsql{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(136, 11, 11);
+    margin-top: 50px;
+}
